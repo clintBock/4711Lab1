@@ -55,7 +55,7 @@ and open the template in the editor.
             $third->add_grade(95);
             $third->add_grade(80);
             $third->add_grade(50);
-            $students['a456'] = $third;
+            $students['134'] = $third;
             
             ksort($students);
 
